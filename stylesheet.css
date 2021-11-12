@@ -99,10 +99,8 @@ header {
 	margin-top: 18%;
 }
 
-.explore p {
-	font-size: 20px;
+.explore h3 {
 	line-height: 10px;
-	font-weight: bold;
 }
 
 .bt {
@@ -134,7 +132,6 @@ header {
 .prodcontent p {
 	color: #191f2f;
 	line-height: 3px;
-	font-weight: bold;
 	margin-bottom: 30px;
 }
 
